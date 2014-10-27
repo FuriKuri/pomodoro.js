@@ -7,4 +7,4 @@ Console App written in JavaScript for the Pomodoro Technique
 
 # Usage
 
-./pomodoro
+./bin/pomodoro
