@@ -8,3 +8,6 @@ Console App written in JavaScript for the Pomodoro Technique
 # Usage
 
 ./bin/pomodoro
+
+(TODO)
+./bin/pomodoro-es6
